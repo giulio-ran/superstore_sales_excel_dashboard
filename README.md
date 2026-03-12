@@ -3,7 +3,7 @@
 # # Supermarket sales Excel dashboard
 
 ## Introduction 
-This dashboard is the one you can find in the Superstore_dashboard.xlsx Microsoft Excel file provided in this repository. It analyzes the sales dataset by dividing the sales revenue according to different criteria.
+This dashboard is the one you can find in the Superstore_dashboard.xlsx Microsoft Excel file provided in this repository. It analyzes the sales dataset by dividing the sales revenue according to different criteria. Each plot in the dashboard was generated through a pivot table and is linked with the top filters.
 
 ## Sections
 1. The top-left section shows sales by month, dividing the partial total by region (it is referred to US geographic macro-regions); November, December and March are the most profitable months, as it is well known in market trends.
@@ -13,6 +13,7 @@ This dashboard is the one you can find in the Superstore_dashboard.xlsx Microsof
 5. The two bottom-left sections show sales by category and sales by segment. For each variable, the most profitable were, respectively, Technology (37%) and Consumer (51%).
 6. The bottom-center section shows the rank by city. We can observe that New York, Los Angeles and Seattle were the best-performing ones.
 7. The bottom-right section shows the revenue by region thoughout the years 2021-2024. During all those years, West and East outperformed Central and South, with a general ascending trend year by year.
+8. The top-center filters allow the user to choose the reference year and the region. By doing so, all the plots in the dashboard will adapt dynamically to the chosen filter conditions.
 
 
 
